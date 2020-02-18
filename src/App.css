@@ -31,7 +31,6 @@ a {
     text-decoration: none
 }
 
-a:focus,
 a:hover {
     text-decoration: underline
 }
@@ -412,8 +411,7 @@ figure {
     font-size: 1.6rem
 }
 
-.centered .about ul li a:hover,
-.centered .about ul li a:focus {
+.centered .about ul li a:hover {
     color: #1565c0
 }
 
@@ -470,8 +468,7 @@ figure {
     color: #212121
 }
 
-.navigation a:hover,
-.navigation a:focus {
+.navigation a:hover {
     color: #1565c0
 }
 

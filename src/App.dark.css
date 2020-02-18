@@ -81,8 +81,7 @@ body.colorscheme-dark .content .centered .about ul li a {
     color: #dadada
 }
 
-body.colorscheme-dark .content .centered .about ul li a:hover,
-body.colorscheme-dark .content .centered .about ul li a:focus {
+body.colorscheme-dark .content .centered .about ul li a:hover {
     color: #36679f
 }
 
@@ -97,8 +96,7 @@ body.colorscheme-dark .content .centered .about ul li a:focus {
     body.colorscheme-auto .content .centered .about ul li a {
         color: #dadada
     }
-    body.colorscheme-auto .content .centered .about ul li a:hover,
-    body.colorscheme-auto .content .centered .about ul li a:focus {
+    body.colorscheme-auto .content .centered .about ul li a:hover {
         color: #36679f
     }
 }
@@ -108,8 +106,7 @@ body.colorscheme-dark .navigation span {
     color: #dadada
 }
 
-body.colorscheme-dark .navigation a:hover,
-body.colorscheme-dark .navigation a:focus {
+body.colorscheme-dark .navigation a:hover {
     color: #36679f
 }
 
@@ -148,8 +145,7 @@ body.colorscheme-dark .navigation a:focus {
     body.colorscheme-auto .navigation span {
         color: #dadada
     }
-    body.colorscheme-auto .navigation a:hover,
-    body.colorscheme-auto .navigation a:focus {
+    body.colorscheme-auto .navigation a:hover {
         color: #36679f
     }
 }
