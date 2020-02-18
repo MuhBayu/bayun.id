@@ -19,11 +19,7 @@ class Nav extends React.Component {
                             </li>
                             <li className="navigation-item">
                                 <a className="navigation-link" href="mailto:m.bayuu.nugraha@gmail.com">Contact me</a>
-                            </li>
-    
-                            <li className="navigation-item menu-separator">
-                                <span>|</span>
-                            </li>
+                            </li>    
                         </ul>
                     </section>
                 </nav>

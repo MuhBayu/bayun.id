@@ -2,6 +2,7 @@ import React from 'react';
 import Nav from './components/nav'
 import './App.css';
 import './App.dark.css';
+import 'font-awesome/css/font-awesome.min.css';
 
 function App() {
   return (
@@ -20,17 +21,22 @@ function App() {
                     <ul>
                         <li>
                             <a href="https://github.com/MuhBayu/" aria-label="Github">
-                                <i className="fab fa-github" aria-hidden="true"></i>
+                                <i className="fa fa-github" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://twitter.com/bayun_12/" aria-label="Twitter">
-                                <i className="fab fa-twitter" aria-hidden="true"></i>
+                                <i className="fa fa-twitter" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://www.linkedin.com/in/bayunugraha/" aria-label="LinkedIn">
-                                <i className="fab fa-linkedin" aria-hidden="true"></i>
+                                <i className="fa fa-linkedin" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="mailto:hello@bayun.id" aria-label="LinkedIn">
+                                <i className="fa fa-envelope-square" aria-hidden="true"></i>
                             </a>
                         </li>
 
