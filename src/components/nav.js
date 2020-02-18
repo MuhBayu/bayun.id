@@ -8,7 +8,7 @@ class Nav extends React.Component {
                     <section className="container">
                         <a className="navigation-title" href="#">Bayun.id</a>
                         <input type="checkbox" id="menu-toggle" />
-                        <label className="menu-button float-right" for="menu-toggle"><i className="fas fa-bars"></i></label>
+                        <label className="menu-button float-right" for="menu-toggle"><i className="fa fa-bars"></i></label>
                         <ul className="navigation-list">
                             <li className="navigation-item">
                                 <a className="navigation-link" href="#">About</a>
