@@ -6,7 +6,7 @@ class Home extends React.Component {
             <div className="content">
                 <section className="container centered">
                     <div className="about">
-                        <div className="avatar"><img src="https://avatars3.githubusercontent.com/u/12170893" alt="avatar" /></div>
+                        <div className="avatar"><img src="/images/ava.png" alt="avatar" /></div>
 
                         <h1>Mochammad Bayu Nugraha</h1>
                         <h2>Back-End Engineer</h2>
