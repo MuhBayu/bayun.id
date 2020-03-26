@@ -24,7 +24,6 @@ function App() {
             </Switch>
             <footer className="footer">
                 <section className="container">
-//                     <p>Hire me.</p>
                 </section>
             </footer>
         </main>
